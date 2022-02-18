@@ -4,8 +4,8 @@
 
 ### Test repo Indexpage
 
-[hyperlink](/_pages/home.md)
-[Testhyperlink](/docs/test.md)
+[hyperlink](/_pages/home)
+[Testhyperlink](/docs/test)
 
 
 
