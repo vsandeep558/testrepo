@@ -19,4 +19,4 @@ jobs:
       - uses: helaili/jekyll-action@master
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          jekyll_src: '/docs'
+          jekyll_src: 'docs'
