@@ -1,4 +1,5 @@
 
+relative_permalinks: false
 # Build settings
 source: ['_pages','docs']
 include: ['_pages','docs']
