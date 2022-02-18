@@ -18,5 +18,5 @@ jobs:
             ${{ runner.os }}-gems-
       - uses: helaili/jekyll-action@v2
         with:
-          include: _pages
           token: ${{ secrets.GITHUB_TOKEN }}
+          jekyll_src: 'docs'
