@@ -1,5 +1,4 @@
 title: "Jekyll Actions Demo"
-relative_permalinks: false
 # Build settings
 source: ['_pages','docs']
 include: ['_pages','docs']
