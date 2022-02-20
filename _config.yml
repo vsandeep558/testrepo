@@ -8,6 +8,6 @@ plugins:
   - jekyll-relative-links
 defaults:
   -
-    scope: ""
-      path:
+    scope:
+      path: ""
     values: "default"
