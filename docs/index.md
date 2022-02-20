@@ -2,4 +2,6 @@
 ---
 #### This is index.md file in docs folder updated
 
-[hyperlink](test.md)
+[test-hyperlink](test.md)<br>
+[home-hyperlink](/home.md)
+[test-hyperlink](/docs/test.md)<br>
