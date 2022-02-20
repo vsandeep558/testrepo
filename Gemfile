@@ -4,7 +4,7 @@ gem "jekyll", "~> 4.2.1"
 
 group :jekyll_plugins do
   gem "jekyll-timeago", "~> 0.13.1"
-  gem 'jekyll-relative-links'
+  gem 'jekyll-optional-front-matter'
 end
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.

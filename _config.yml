@@ -5,11 +5,6 @@ include: ['docs']
 #theme: minima
 plugins:
   - jekyll-timeago
-  - jekyll-relative-links
-defaults:
-  -
-    scope:
-      path: "docs"
-    values:
-      layout: "default"
+  - jekyll-optional-front-matter
+
     
