@@ -6,3 +6,8 @@ include: ['docs']
 plugins:
   - jekyll-timeago
   - jekyll-relative-links
+defaults:
+  -
+    scope:
+      path:
+    values:
