@@ -6,6 +6,8 @@
 [home-hyperlink](/home.md)
 [test-hyperlink](/docs/test.md)<br>
 <br>
-[test-hyperlink](test.html)<br>
+[test-hyperlink-working](test.html)<br>
 [home-hyperlink](/home.html)
 [test-hyperlink](/docs/test.html)<br>
+
+[test-hyperlink-3](test)<br>
