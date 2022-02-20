@@ -9,4 +9,7 @@ plugins:
 defaults:
   -
     scope:
-      path: ""    
+      path: "docs"
+    values:
+      layout: "default"
+    
