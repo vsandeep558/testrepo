@@ -1,7 +1,5 @@
 title: "Jekyll Actions Demo"
 # Build settings
-source: ['docs']
-include: ['docs']
 #theme: minima
 plugins:
   - jekyll-timeago
