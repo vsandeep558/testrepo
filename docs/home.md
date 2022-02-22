@@ -6,3 +6,4 @@ permalink: "/"
 [test-hyperlink-working](test.html)<br>
 
 [test-hyperlink-3](test)<br>
+[another-sub-folder-test](/subdocs/subd)
