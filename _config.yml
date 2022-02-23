@@ -1,7 +1,7 @@
-title: "Jekyll Actions Demo"
 # Build settings
-#theme: minima
+theme: minima
 plugins:
+  - jekyll-feed
   - jekyll-timeago
   - jekyll-optional-front-matter
 
