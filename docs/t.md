@@ -5,6 +5,6 @@ Click **[T Release Notes](tardis/Release-Notes/#t-release-notes)** for an update
 
 ### Constructing a Schema
 See [Constructing Record Metas](./tardis/Constructing-Record-Metas) <br>
-See [Turning a RecordMeta into a UML Diagram](./tardis/Turning-a-IRecordMeta-into-a-UML-Diagram) <br>
-see [Concrete Records](./tardis/Concrete-Records). <br>
+See [Turning a RecordMeta into a UML Diagram](./Tardis/Turning-a-IRecordMeta-into-a-UML-Diagram)  changed tardis to Tardis with dot<br>
+see [Concrete Records](/tardis/Concrete-Records).  just removed the dot<br>
 
