@@ -7,3 +7,5 @@ permalink: "/"
 
 [test-hyperlink-3](test)<br>
 [another-sub-folder-test](/testrepo/subdocs/subd.html)
+
+- <b>[Tt](t#what-is-the-tardis)</b>:
