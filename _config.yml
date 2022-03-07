@@ -1,7 +1,6 @@
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
   - jekyll-timeago
   - jekyll-optional-front-matter
 
