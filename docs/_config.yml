@@ -1,10 +1,9 @@
 # Build settings
-theme: jekyll-theme-leap-day
+remote_theme: pages-themes/leap-day@v0.2.0
 markdown: CommonMarkGhPages
 plugins:
   - jekyll-timeago
   - jekyll-optional-front-matter
   - jekyll-remote-theme
   - jekyll-relative-links
-
     
