@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 gem "jekyll", "3.9.0"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-# gem "github-pages", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins
 
 group :jekyll_plugins do
   gem "jekyll-timeago", "~> 0.13.1"
