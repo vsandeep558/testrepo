@@ -8,6 +8,8 @@ gem "jekyll-theme-leap-day"
 group :jekyll_plugins do
   gem "jekyll-timeago", "~> 0.13.1"
   gem 'jekyll-optional-front-matter'
+  gem 'jekyll-relative-links'
+  gem 'jekyll-commonmark-ghpages'
 end
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
