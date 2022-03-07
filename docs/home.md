@@ -1,5 +1,6 @@
 ---
 permalink: "/"
+layout: home
 ---
 
 ### this is home page in docs folder and testing without index page chages with time ago filter
