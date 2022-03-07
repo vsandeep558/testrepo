@@ -1,5 +1,5 @@
 # Build settings
-theme: minima
+theme: jekyll-theme-leap-day
 plugins:
   - jekyll-timeago
   - jekyll-optional-front-matter
