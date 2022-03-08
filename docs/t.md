@@ -1,3 +1,6 @@
+---
+permalink: default
+---
 Click **[T Release Notes](tardis/Release-Notes/#t-release-notes)** for an update on the latest product features.<br>
 | **[demos](home#t-demo-and-videos)** | Shows example code that uses various t libraries. You can click  | <br>
 | **o** | A java API for **[orbit](tardis/Tardis-and-Web-Services#calling-orbit-services)** |
