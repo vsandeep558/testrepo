@@ -1,5 +1,5 @@
 # Build settings
-theme: jekyll-theme-leap-day
+theme: minima
 markdown: CommonMarkGhPages
 plugins:
   - jekyll-timeago
