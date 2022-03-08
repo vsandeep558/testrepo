@@ -1,4 +1,11 @@
 # Build settings
+title: "Jekyll Actions Demo"
+### Built settings ###
+
+url: "https://vanamsandeep.github.io"
+baseurl: "/testrepo"
+
+github_username: vanamsandeep
 theme: minima
 markdown: CommonMarkGhPages
 plugins:
