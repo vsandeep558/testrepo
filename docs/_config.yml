@@ -17,4 +17,5 @@ plugins:
   - jekyll-timeago
   - jekyll-remote-theme
   - jekyll-relative-links
+  - jekyll-default-layout
     
