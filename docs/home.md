@@ -10,4 +10,4 @@ layout: default
 [test-hyperlink-3](test)<br>
 [another-sub-folder-test](/testrepo/subdocs/subd.html)
 
-- <b>[T home page](t#what-is-the-tardis)</b>:
+- <b>[T home page](tardis-orverview#what-is-the-tardis)</b>:
