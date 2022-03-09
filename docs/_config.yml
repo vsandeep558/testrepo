@@ -7,7 +7,12 @@ baseurl: "/testrepo"
 
 github_username: vanamsandeep
 remote_theme: pages-themes/leap-day@v0.2.0
+
 markdown: CommonMarkGhPages
+commonmark:
+  options: ["UNSAFE", "SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
+  
 plugins:
   - jekyll-timeago
   - jekyll-remote-theme
