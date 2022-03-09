@@ -12,6 +12,7 @@ group :jekyll_plugins do
   gem 'jekyll-commonmark-ghpages'
   gem "jekyll-remote-theme"
   gem 'jekyll-seo-tag', '~> 2.1'
+  gem 'jekyll-default-layout'
 end
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
