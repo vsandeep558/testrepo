@@ -2,10 +2,10 @@
 title: "Jekyll Actions Demo with leap-day theme"
 ### Built settings ###
 
-#url: "https://vanamsandeep.github.io"
-#baseurl: "/testrepo"
+url: "https://vanamsandeep.github.io"
+baseurl: "/testrepo"
 
-#github_username: vanamsandeep
+github_username: vanamsandeep
 remote_theme: pages-themes/leap-day@v0.2.0
 
 markdown: CommonMarkGhPages
