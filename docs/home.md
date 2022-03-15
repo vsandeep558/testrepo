@@ -2,7 +2,9 @@
 permalink: "/"
 ---
 
-### this is home page in docs folder and testing without index page chages with time ago filter
+### Demo
+
+<b>this is home page in docs folder and testing without index page chages with time ago filter</b>
 
 {% assign date = '2022-02-13T10:20:00Z' %}
 
