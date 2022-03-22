@@ -1,1 +1,1 @@
-Release-Notes test.md file opened.
+# Tardis 1.2 Release Notes
