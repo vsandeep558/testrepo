@@ -1,4 +1,4 @@
 Release-Notes.md file in t folder
-# T Release Notes
+# Tardis Release Notes
 
 ## Release Policy
