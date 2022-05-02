@@ -2,7 +2,7 @@
 title: "Jekyll Actions Demo with leap-day theme"
 ### Built settings ###
 
-url: "https://vanamsandeep.github.io"
+url: "https://vanamsandeep-test.github.io"
 baseurl: "/testrepo"
 
 github_username: vanamsandeep
