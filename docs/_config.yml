@@ -10,20 +10,12 @@ remote_theme: pages-themes/leap-day@v0.2.0
 
 markdown: CommonMarkGhPages
 commonmark:
-  options: ["UNSAFE", "SMART", "FOOTNOTES"]
+  options: ["SMART", "FOOTNOTES"]
   extensions: ["strikethrough", "autolink", "table", "tagfilter"]
-pre-commit:
-  - check: FrontMatterVariableExists
-    variables: ['description', 'image']
-  - check: FrontMatterVariableIsNotDuplicate
-    variables: ['description']
-  - check: FrontMatterVariableMeetsLengthRequirements
-    variables: ['description', 'title']
-  - check: NoDuplicateTags 
-  
 plugins:
   - jekyll-timeago
   - jekyll-remote-theme
   - jekyll-relative-links
   - jekyll-default-layout
+  - jemoji
     
