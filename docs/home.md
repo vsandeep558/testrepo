@@ -18,3 +18,8 @@ permalink: "/"
 [another-sub-folder-test](/testrepo/subdocs/subd.html)
 
 - <b>[T home page](tardis-orverview#what-is-the-tardis)</b>:
+
+# SEARCH :mag: 
+You can <b>[Search](https://example/search?search=1234)</b> with a combination of keywords for any of our for documentation results, there is always a Markdown file listed (*.md).
+
+support requests to [examplesupport@example.com](mailto:example.example.com)
