@@ -14,7 +14,7 @@ layout: search
     {% for page in site.pages %}
       "{{ page.url | slugify }}": {
         "title": "{{ page.name | xml_escape }}",
-        "content": {{ page.content | strip_html | strip_newlines | replace: '&quot;' , '' | replace: 'Demothi' , 'Testingssss' | jsonify }},
+        "content": {{ page.content | strip_html | strip_newlines | replace: '# SEARCH :mag:' , '' | replace: 'Demothi' , 'wordreplace' | jsonify }},
         "url": "{{ page.url | xml_escape }}"
       }
       {% unless forloop.last %},{% endunless %}
