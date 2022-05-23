@@ -3,7 +3,7 @@
     "replacementPatterns": [
       {
       "pattern": "^/",
-      "replacement": "{{baseUrl}}/"
+      "replacement": "{{BASEURL}}/"
     }
   ],
     "aliveStatusCodes": [
