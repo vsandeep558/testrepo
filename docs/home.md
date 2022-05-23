@@ -12,10 +12,10 @@ permalink: "/"
 - With timeago filter - {{ date | timeago }}  
 
 
-[test-hyperlink-working](test.html)<br>
+[test-hyperlink-working](test)<br>
 
 [test-hyperlink-3](test)<br>
-[another-sub-folder-test](/testrepo/subdocs/subd.html)
+[another-sub-folder-test](/testrepo/subdocs/subd)
 
 - <b>[T home page](tardis-orverview#what-is-the-tardis)</b>:
 
