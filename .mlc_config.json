@@ -1,3 +1,4 @@
 {
-   "baseUrl": "https://vanamsandeep.github.io/testrepo/"
+   "baseUrl": "https://vanamsandeep.github.io/testrepo/",
+   "replacementPatterns": "{{BASEURL}}"
 }
