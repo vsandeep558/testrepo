@@ -1,0 +1,20 @@
+{
+    "replacementPatterns": [
+      {
+      "pattern": "^/([^.]*)(?#|$)",
+      "replacement": "{{BASEURL}}/docs/$1.md"
+      },
+      {
+      "pattern": "([^.]*)(?#|$)",
+      "replacement": "$1.md"
+      },
+      {
+      "pattern": "^/",
+      "replacement": "{{BASEURL}}/docs/"
+      }
+    ],
+    "aliveStatusCodes": [
+        200,
+        429
+    ]
+}
