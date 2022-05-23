@@ -1,13 +1,13 @@
 
 Clicksss **[T Release Notes](/Tardis/Release-Notes/#tardis-release-notes)** for an update on the latest product features.<br>
 | **[demos](home#t-demo-and-videos)** | Shows example code that uses various t libraries. You can click  | <br>
-| **o** | A java API for **[orbit](tardis/Tardis-and-Web-Services#calling-orbit-services)** |
+| **o** | A java API for **[orbit](tardis/tardis-and-web-services#calling-orbit-services)** |
 
 
 ### Constructing a Schema
-See [Constructing Record Metas](./tardis/Constructing-Record-Metas) <br>
-See [Turning a RecordMeta into a UML Diagram](./Tardis/Turning-a-IRecordMeta-into-a-UML-Diagram)  changed tardis to Tardis with dot<br>
-see [Concrete Records](/tardis/Concrete-Records).  just removed the dot<br>
+See [Constructing Record Metas](./tardis/constructing-record-metas) <br>
+See [Turning a RecordMeta into a UML Diagram](tardis/turning-a-irecordmeta-into-a-uml-diagram)  changed tardis to Tardis with dot<br>
+see [Concrete Records](/tardis/concrete-records).  just removed the dot<br>
 
 
 
