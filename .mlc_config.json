@@ -1,8 +1,3 @@
 {
-    
-    "aliveStatusCodes": [
-        200,
-        429
-    ],
-    "baseUrl": "https://vanamsandeep.github.io/testrepo/"
+   "baseUrl": "https://vanamsandeep.github.io/testrepo/"
 }
