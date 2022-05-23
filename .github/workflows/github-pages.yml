@@ -19,5 +19,9 @@ jobs:
       - uses: helaili/jekyll-action@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          jekyll_src: 'docs'         
-          
+          jekyll_src: 'docs'      
+  markdown-link-check:
+   runs-on: ubuntu-latest
+   steps:
+    - uses: actions/checkout@master
+    - uses: gaurav-nelson/github-action-markdown-link-check@v1  
