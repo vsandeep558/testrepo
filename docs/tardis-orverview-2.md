@@ -15,10 +15,5 @@ Classes facilitating integration with the javascript Dashy dashboards (http://vi
 
 # TARDIS Help
 
-see [1](/testrepo/tardis-orverview-1) Tardis
-see[2](/testrepo/tardis-orverview-2)
-see [3](/testrepo/tardis-orverview-3)
-
 Please send any Tardis-related questions to TardisHelp@lexisnexis.com.
-
 
