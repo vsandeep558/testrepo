@@ -51,7 +51,8 @@
          var updatedName=  words.map((word) => {
               return word[0].toUpperCase() + word.substring(1);
           }).join(" ");
-          appendString += '<li><a href="' + item.url + '"><h3 style="color:#4276b6;">' + updatedName + '</h3></a>';
+          var finalUrl = "/testrepo"+item.url;
+          appendString += '<li><a href="' + finalUrl + '"><h3 style="color:#4276b6;">' + updatedName + '</h3></a>';
           appendString += '<p>' + item.content.substring(0, 150) + '...</p></li>';
         }
         searchResults.innerHTML = appendString;

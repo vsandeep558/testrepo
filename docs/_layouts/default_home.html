@@ -12,7 +12,7 @@
     {% seo %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="https://code.jquery.com/jquery-3.3.0.min.js" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script>
-    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+    <!--<script src="{{ '/assets/js/main.js' | relative_url }}"></script>-->
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
     <![endif]-->
@@ -36,6 +36,13 @@
             text-align: center;
             color: black;
         }
+        #nav-block{
+            top:210px;
+        }
+        .li-class{
+            line-height: 12px;
+            padding: 4px 0px;
+        }
 
     </style>
 
@@ -50,7 +57,7 @@
 <div id="banner" style="width:100vw;">
     <span id="logo" style="background-image: none;"></span>
 
-    <a href="{{ site.url }}/testrepo/" class="button fork" style="left: 25%;">Home<strong></strong></a>
+    <a href="{{ site.url }}/testrepo/" class="button fork" style="left: 25%;">Home Test<strong></strong></a>
        <div class="textBoxCss">
            <input type="text" id="search-box" name="text" size="35" style="height:25px; border-radius: 5px; border-width: 1px;" placeholder="Search here!" > </input>
            <input type="button" id="searchButton" class="submitButton" style="height:25px; border-radius: 5px;  border-width: 1px;" name="submit" value="Search">
@@ -68,7 +75,22 @@
 
 <div class="wrapper" style="width: 800px;">
     <nav id="nav-block" style="left: 45%;">
-        <ul></ul>
+        <ul>
+            <li class="tag-h1 li-class"><a href="#demo">Tardis</a></li>
+            <li class="tag-h2 li-class"><a href="#demo">Javadocs</a></li>
+            <li class="tag-h2 li-class"><a href="#demo">How to videos</a></li>
+            <li class="tag-h1 li-class"><a href="#demo">SALT</a></li>
+            <li class="tag-h2 li-class"><a href="#search-">Javadocs</a></li>
+            <li class="tag-h2 li-class"><a href="#search-">How to videos</a></li>
+            <li class="tag-h1 li-class"><a href="#demo">KEL</a></li>
+            <li class="tag-h2 li-class"><a href="#search-">Javadocs</a></li>
+            <li class="tag-h1 li-class"><a href="#demo">HIPIE</a></li>
+            <li class="tag-h1 li-class"><a href="#demo">LUCI</a></li>
+            <li class="tag-h2 li-class"><a href="#demo">How to videos</a></li>
+            <li class="tag-h1 li-class"><a href="#demo">TRIXE</a></li>
+            <li class="tag-h2 li-class"><a href="#demo">How to videos</a></li>
+            <li class="tag-h1 li-class"><a href="#demo">DSP</a></li>
+        </ul>
     </nav>
     <div id="search-results-default"> </div>
     <section id="section-block" style="width: 990px;">
