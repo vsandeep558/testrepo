@@ -42,12 +42,12 @@
 </head>
 <body>
 
-<header>
-    <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+<header style="padding:0px; min-height:60px;">
+    <h1 style="padding-top:10px;">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
     <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
 </header>
 
-<div id="banner" style="width:100vw;">
+<div id="banner" style="width:100vw; top:60px;">
     <span id="logo" style="background-image: none;"></span>
 
     <a href="{{ site.url }}/testrepo/" class="button fork" style="left: 25%;">Home<strong></strong></a>
@@ -67,11 +67,11 @@
 </div><!-- end banner -->
 
 <div class="wrapper" style="width: 800px;">
-    <nav id="nav-block" style="left: 45%;">
+    <nav id="nav-block" style="left: 45%; top:150px;">
         <ul></ul>
     </nav>
     <div id="search-results-default"> </div>
-    <section id="section-block" style="width: 990px;">
+    <section id="section-block" style="width: 990px; margin-top:120px;">
         {{ content }}
     </section>
 </div>

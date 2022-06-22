@@ -12,6 +12,9 @@ markdown: CommonMarkGhPages
 commonmark:
   options: ["SMART", "FOOTNOTES"]
   extensions: ["strikethrough", "autolink", "table", "tagfilter"]
+source: 'docs'
+html-proofer:
+  checks:['Links']
 plugins:
   - jekyll-timeago
   - jekyll-remote-theme
